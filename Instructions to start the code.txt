@@ -1,0 +1,5 @@
+Instructions
+- In VisualStudio Code terminal, direct to the folder cd /..../CountloriesFinal/
+- Type into the terminal yarn install
+- After that type yarn start
+- The Web should start in your browser
