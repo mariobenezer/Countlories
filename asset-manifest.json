@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Countlories/static/css/main.c4ca53b4.css",
+    "main.js": "/Countlories/static/js/main.40a3b356.js",
+    "static/js/453.5facde3f.chunk.js": "/Countlories/static/js/453.5facde3f.chunk.js",
+    "worker.js": "/Countlories/1bbec43fd7dcd7f715e7.worker.js",
+    "static/media/logo.png": "/Countlories/static/media/logo.822c3de324767514d39c.png",
+    "index.html": "/Countlories/index.html",
+    "main.c4ca53b4.css.map": "/Countlories/static/css/main.c4ca53b4.css.map",
+    "main.40a3b356.js.map": "/Countlories/static/js/main.40a3b356.js.map",
+    "453.5facde3f.chunk.js.map": "/Countlories/static/js/453.5facde3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ca53b4.css",
+    "static/js/main.40a3b356.js"
+  ]
+}
